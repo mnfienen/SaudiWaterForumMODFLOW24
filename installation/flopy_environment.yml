@@ -21,6 +21,7 @@ dependencies:
   - shapely>=1.8
   - geos
   - geojson
+  - geopandas
   - vtk
   - rasterstats
   - pyvista
