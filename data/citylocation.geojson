@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "citylocation",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2318" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "name": "Riyadh" }, "geometry": { "type": "Point", "coordinates": [ -128167.508270076068584, -40925.576681490929332 ] } }
+]
+}
