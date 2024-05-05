@@ -8,7 +8,7 @@ This repository contains information for the MODFLOW workshop at the Saudi Water
 
 ## Software Installation
 
-See software installation instructions [here](./software.md).
+See software installation instructions [here](./installation/software.md).
 
 ## Examples
 
